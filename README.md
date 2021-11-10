@@ -1,6 +1,6 @@
 <h2 align="center">Hi there!👋<br> I am Kartik Mohan:man_technologist:</h2>
 
-<p>I'm currently a final year undergraduate student and an aspiring Data Analyst.</p>
+<p>I'm currently a graduate student @Northeastern University and an aspiring Data Scientist.</p>
 
 
 - 🔭 I’m currently working on Data Analysis & Visualizations.
