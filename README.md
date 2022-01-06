@@ -15,4 +15,4 @@ Programming languages and tools: <br>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 </p>
  <br>
-<img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=kartik-mohan&show_icons=true&hide_border=true" />
+<img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=mohan-kartik&show_icons=true&hide_border=true" />
