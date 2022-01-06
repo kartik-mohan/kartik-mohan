@@ -2,6 +2,13 @@
 
 <p>I'm currently a graduate student @Northeastern University on the journey to become a Data Scientist.</p>
 
+<p align=center>
+<img height="25" src="https://badges.pufler.dev/visits/mohan-kartik/mohan-kartik?color=black&logo=github" />
+<img height="25" src="https://komarev.com/ghpvc/?username=mohan-kartik&color=brightgreen" />
+<a href="https://github.com/mohan-kartik">
+</a>
+</p>
+
 - 🔭 I’m currently working on Data Analysis & Visualizations.
 - 🌱 I’m currently learning ML algorithms.
 - 👯 I’m looking to collaborate on Data Analytics.
