@@ -14,7 +14,7 @@ I am happy to network and collaborate 🤝.
 
 Have a great day 😃.
 
- 📫 Reach me at: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohan-kartik/) , [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/kartik-mohan)
+ 📫 Reach me at: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohan-kartik/) , [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/mohan-kartik)
 
 
 <p><h3>Programming languages, Tools and Frameworks: <br></p>
