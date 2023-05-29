@@ -23,3 +23,4 @@ Have a great day 😃.
 
 <p><h3>My GitHub Summary: <br></p>
 <img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=mohan-kartik&show_icons=true&hide_border=true" />
+<img height="25" src="https://visitor-badge.glitch.me/badge?page_id=mohan-kartik.visitor-badge&left_text=My%20Page%20Visitors"/>
