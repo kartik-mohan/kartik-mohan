@@ -29,6 +29,8 @@ Have a great day 😃.
 💼 [__Analysis of Data Analyst Job Listings in R__](https://github.com/mohan-kartik/Analysis-of-Data-Analyst-Job-Listings-in-R)
 
 ❤️ [__Exploratory Data Analysis On Haberman Dataset__](https://github.com/mohan-kartik/EDA-on-Haberman-Dataset)
+
+:skull: [__Suicide Rate Analysis__](https://github.com/mohan-kartik/Suicide-Case-Analysis)
 <hr style="border:0.01px solid blue">
 
 ## Machine Learning Projects: 
