@@ -34,6 +34,8 @@ Have a great day 😃.
 
 :skull: [__Suicide Rate Analysis__](https://github.com/mohan-kartik/Suicide-Case-Analysis)
 
+:chart_with_upwards_trend: [__UT Mart Sales-Profit Analysis__](https://github.com/mohan-kartik/Mart-Analysis)
+
 <hr style="border:0.01px solid blue">
 
 ## Machine Learning Projects: 
