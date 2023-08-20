@@ -36,7 +36,7 @@ Have a great day 😃.
 
 :shopping_cart: [__Mart Sales-Profit Analysis in Tableau__](https://github.com/mohan-kartik/Mart-Sales-and-Profit-Analysis-Tableau)
 
-🚗: [__NYC Motor Collision Analysis__](https://github.com/mohan-kartik/NYC-Motor-Collision-Analysis)
+🚗 [__NYC Motor Collision Analysis__](https://github.com/mohan-kartik/NYC-Motor-Collision-Analysis)
 
 <hr style="border:0.01px solid blue">
 
