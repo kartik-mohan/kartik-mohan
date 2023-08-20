@@ -48,4 +48,6 @@ Have a great day 😃.
 💡 [__Time Series Analysis and Forecasting of Household Power Consumption__](https://github.com/mohan-kartik/Time_Series_Analysis_of_Household_Power_Consumption)
 
 ☣️ [__Covid19 Sentiment Analysis__](https://github.com/mohan-kartik/Covid19-Sentiment-Analysis)
+
+:camera: [__Image Classification on CIFAR10__](https://github.com/mohan-kartik/Image-Classification-on-CIFAR10)
 <hr style="border:0.01px solid blue">
