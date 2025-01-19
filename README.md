@@ -1,4 +1,4 @@
-<h2 align="center">Hi there!👋<br> I am Kartik Mohan:man_technologist:</h2>
+<h2 align="center">Hi there!👋<br> I am Kartik Mohan</h2>
 
 <p>I'm a graduate student pursuing MS in Data Science at Northeastern University on the journey to become a Data Scientist.
  
